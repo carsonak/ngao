@@ -13,6 +13,7 @@ Ngao is a simple Flask-based webhook server designed to automate GitHub Pull Req
 
 - Python 3.10+
 - A GitHub Personal Access Token (PAT) with `repo` permissions.
+- 
 - A public-facing URL (or use a tool like `ngrok` for local development).
 
 ## Installation
